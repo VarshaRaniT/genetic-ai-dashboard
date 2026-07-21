@@ -30,7 +30,7 @@ This project is a **dashboard application** built with Next.js for the frontend 
 ### Frontend (Next.js)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nextjs-python-dashboard.git
+   git clone https://github.com/VarshaRaniT/genetic-ai-dashboard.git
    cd nextjs-python-dashboard
    ```
 2. Install Node.js dependencies:
